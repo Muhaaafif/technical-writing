@@ -1,5 +1,7 @@
 # technical-writing
-technical writing
-Berikut adalah resource yang saya gunakan untuk belajar Technical Writing di internet:
-1. Tehnical writer HQ
-https://web.whatsapp.com/ 
+Hi I'm Muhammad Afif, a writer who love IT things. Currently as a Technical Writer and documenting my learning journey here.
+
+Learning resource:
+- [Technical Writer HQ](https://technicalwriterhq.com/)
+
+Will update soon!
